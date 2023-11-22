@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/2023/11/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/11/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<div class="note success modern"><p>ok</p></div><div class="note green icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><div class="note icon-padding flat"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1. 标题"></a>1. 标题</h2><h3 id="1-1-标题"><a href="#1-1-标题" class="headerlink" title="1.1 标题"></a>1.1 标题</h3><h4 id="1-1-1-标题"><a href="#1-1-1-标题" class="headerlink" title="1.1.1 标题"></a>1.1.1 标题</h4><h5 id="1-1-1-1-标题"><a href="#1-1-1-1-标题" class="headerlink" title="1.1.1.1 标题"></a>1.1.1.1 标题</h5><h6 id="1-1-1-1-1-标题"><a href="#1-1-1-1-1-标题" class="headerlink" title="1.1.1.1.1 标题"></a>1.1.1.1.1 标题</h6><h2 id="2-标题"><a href="#2-标题" class="headerlink" title="2. 标题"></a>2. 标题</h2><h3 id="2-1-标题"><a href="#2-1-标题" class="headerlink" title="2.1 标题"></a>2.1 标题</h3><h4 id="2-1-1-标题"><a href="#2-1-1-标题" class="headerlink" title="2.1.1 标题"></a>2.1.1 标题</h4><h5 id="哪個英文字母最酷？"><a href="#哪個英文字母最酷？" class="headerlink" title="哪個英文字母最酷？ "></a>哪個英文字母最酷？ <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案  </button><span class="hide-content">因為西裝褲(C裝酷)</span></span></h5><span><div class="hide-block"><button type="button" class="hide-button" style="">查看答案    </button><div class="hide-content"><p>傻子，怎麼可能有答案</p></div></div></span><div><details class="toggle" ><summary class="toggle-button" style="">Butterfly安裝方法</summary><div class="toggle-content"><p>在你的博客根目錄裏</p><p>git clone -b master <a href="https://github.com/jerryc127/hexo-theme-butterfly.git">https://github.com/jerryc127/hexo-theme-butterfly.git</a> themes&#x2F;Butterfly</p><p>如果想要安裝比較新的dev分支，可以</p><p>git clone -b dev <a href="https://github.com/jerryc127/hexo-theme-butterfly.git">https://github.com/jerryc127/hexo-theme-butterfly.git</a> themes&#x2F;Butterfly</p></div></details></div><div><div class="tabs" id="test4"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test4-1">第一個Tab</button></li><li class="tab"><button type="button" data-href="#test4-2"><i class="fab fa-apple-pay" style="text-align: center;"></i></button></li><li class="tab"><button type="button" data-href="#test4-3"><i class="fas fa-bomb"></i>炸彈</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test4-1"><p><strong>tab名字為第一個Tab</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-2"><p><strong>只有圖標 沒有Tab名字</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-3"><p><strong>名字+icon</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div></div><p><strong>按钮详细</strong>去看<a href="https://butterfly.js.org/posts/4aa8abbe/#Button">安装文档三</a></p><div><a class="btn-beautify larger" href="https://butterfly.js.org/"   title="跳转按钮"><i class="far fa-hand-point-right"></i><span>跳转按钮</span></a></div><p>我覺得很漂亮 <img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:150px"/><br><br/><br>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p><div><div class="timeline green"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p></div></div><div class='timeline-item-content'><p>這是測試頁面</p></div></div></div></div><div><div class="flink"><div class="flink-name">網站</div><div class="flink-desc">值得推薦的網站</div> <div class="flink-list">          <div class="flink-list-item">            <a href="https://www.youtube.com/" title="Youtube" target="_blank">              <div class="flink-item-icon">                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Youtube" />              </div>              <div class="flink-item-name">Youtube</div>               <div class="flink-item-desc" title="視頻網站">視頻網站</div>            </a>          </div>          <div class="flink-list-item">            <a href="https://www.weibo.com/" title="Weibo" target="_blank">              <div class="flink-item-icon">                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Weibo" />              </div>              <div class="flink-item-name">Weibo</div>               <div class="flink-item-desc" title="中國最大社交分享平台">中國最大社交分享平台</div>            </a>          </div>          <div class="flink-list-item">            <a href="https://twitter.com/" title="Twitter" target="_blank">              <div class="flink-item-icon">                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Twitter" />              </div>              <div class="flink-item-name">Twitter</div>               <div class="flink-item-desc" title="社交分享平台">社交分享平台</div>            </a>          </div></div></div></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/11/20/hello-world/"/>
+      <url>/2023/11/20/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> web前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> jQuery </tag>
+            
+            <tag> 表格 </tag>
+            
+            <tag> 表单验证 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
