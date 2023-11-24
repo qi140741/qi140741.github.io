@@ -27,3 +27,8 @@
 #page-header {
     /*background: transparent !important;*/
 }
+
+.loading-img {
+    background: url(https://picdl.sunbangyan.cn/2023/11/24/b0916d717f7d33ae85cf8ff41377ab7f.jpeg) no-repeat center center;
+    background-size: cover;
+}
